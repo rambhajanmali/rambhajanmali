@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey 👋, i'm  Rambhajan Saini
+- 🌱 I’m currently learning AIML
+- 👯 I’m looking to collaborate on Full-Stack-Projects
+- 📫 How to reach me: rambhajanmali987@gmail.com
 
 <!--
 **rambhajanmali/rambhajanmali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
